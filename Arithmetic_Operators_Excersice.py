@@ -97,3 +97,4 @@ def level_choise():
 
 
 level_choise()
+#what should be dine next: create a loop which asks if the player wants to continuw to another game, and error handeling
