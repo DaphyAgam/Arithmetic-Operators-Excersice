@@ -1,0 +1,1 @@
+The purpose of the excersice was to create a practice tool for third grade students. 
